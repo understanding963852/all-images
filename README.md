@@ -11,3 +11,6 @@
 # 객체가 har이라는 변수에 할당되었고  그 아래에 
 
 # download.js 안에 내용을 복사하여 console 붙여 넣으면    전체 이미지 주소가 일괄적으로 나타난다
+
+
+![Uploading image.png…]()
