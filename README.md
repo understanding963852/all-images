@@ -13,4 +13,5 @@
 # download.js 안에 내용을 복사하여 console 붙여 넣으면    전체 이미지 주소가 일괄적으로 나타난다
 
 
-![Uploading image.png…]()
+![image](https://github.com/understanding963852/all-images/assets/60366769/e42a8045-728e-402b-a3a0-76604c2b9791)
+
